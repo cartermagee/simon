@@ -1,26 +1,25 @@
-https://cartermagee.github.io/simon/
+# Simon Said What?
 
-# README
+> Play the game on [Heroku](https://simonsaidwhat.herokuapp.com)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Description
+A remake of the classic Simon Says game.
 
-* Ruby version
+# Requirements
 
-* System dependencies
+* Ruby '2.4.0'
+* Rails 5.0
+* Puma
+* ActiveRecord
+* Postgres SQL
+* Angular JS
+* JQuery
 
-* Configuration
+---
+**for testing:**
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Contributors
+* Carter Magee
+* Katherine Hill
+* Thomas Fitzpatrick
