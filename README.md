@@ -1,6 +1,6 @@
 # Simon Said What?
 
-> Play the game on [Heroku](https://simonsaidwhat.herokuapp.com)
+> Play the game on [Heroku](https://simonsaidwhat.herokuapp.com)!!
 
 
 # Description
